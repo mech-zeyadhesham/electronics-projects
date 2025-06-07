@@ -14,7 +14,6 @@ This project involves designing and developing a custom motherboard for an agric
 - Microcontroller: ARM Cortex-M4
 - Outputs: 2 Relay channels
 - Motor Control: 2 Stepper motor drivers
-- Power supply: Designed for stable and reliable operation in the field
 
 ## Images
 ![Motherboard Front View](./images/motherboard_front.jpg)  
